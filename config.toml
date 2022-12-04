@@ -1,5 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://watana0e.github.io/hugo-site/'
 languageCode = 'en-us'
 title = 'Masahiro Watanabe Site'
 
 theme = "ananke"
+
+publishDir = 'docs'
+
