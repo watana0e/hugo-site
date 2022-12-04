@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2022-12-04T16:50:01+09:00
-draft: true
+draft: false
 tags: ["自己紹介"]
 ---
 
