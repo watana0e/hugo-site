@@ -1,7 +1,8 @@
 ---
 title: "Kadai"
 date: 2022-12-05T22:55:12+09:00
-draft: true
+draft: false
+tags: ["課題"]
 ---
 
 # このサイトの現時点での課題
