@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>課題 on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/%E8%AA%B2%E9%A1%8C/</link>
+    <description>Recent content in 課題 on Masahiro Watanabe Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Dec 2022 22:55:12 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/%E8%AA%B2%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kadai</title>
+      <link>https://watana0e.github.io/hugo-site/posts/kadai/</link>
+      <pubDate>Mon, 05 Dec 2022 22:55:12 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/kadai/</guid>
+      <description>&lt;h1 id=&#34;このサイトの現時点での課題&#34;&gt;このサイトの現時点での課題&lt;/h1&gt;
+&lt;p&gt;Gitコマンドを覚えたいと思い｡&lt;br&gt;
+更新したいので課題を列挙していきます｡&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

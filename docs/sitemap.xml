@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://watana0e.github.io/hugo-site/posts/first-post/</loc>
-    <lastmod>2022-12-04T16:50:01+09:00</lastmod>
+    <loc>https://watana0e.github.io/hugo-site/posts/kadai/</loc>
+    <lastmod>2022-12-05T22:55:12+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/</loc>
-    <lastmod>2022-12-04T16:50:01+09:00</lastmod>
+    <lastmod>2022-12-05T22:55:12+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/</loc>
-    <lastmod>2022-12-04T16:50:01+09:00</lastmod>
+    <lastmod>2022-12-05T22:55:12+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/</loc>
+    <lastmod>2022-12-05T22:55:12+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/%E8%AA%B2%E9%A1%8C/</loc>
+    <lastmod>2022-12-05T22:55:12+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/first-post/</loc>
     <lastmod>2022-12-04T16:50:01+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
