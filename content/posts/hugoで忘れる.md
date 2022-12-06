@@ -1,7 +1,8 @@
 ---
 title: "Hugoで忘れる"
 date: 2022-12-06T23:48:34+09:00
-draft: true
+draft: false
+tags: ["Hugo"]
 ---
 
 # Hugoで忘れがちなこと
