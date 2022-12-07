@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/google/</link>
+    <description>Recent content in Google on Masahiro Watanabe Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Dec 2022 23:29:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Googleの画像圧縮Webアプリ</title>
+      <link>https://watana0e.github.io/hugo-site/posts/google%E3%81%AE%E7%94%BB%E5%83%8F%E5%9C%A7%E7%B8%AEweb%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <pubDate>Wed, 07 Dec 2022 23:29:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/google%E3%81%AE%E7%94%BB%E5%83%8F%E5%9C%A7%E7%B8%AEweb%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <description>&lt;h1 id=&#34;squoosh&#34;&gt;Squoosh&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://squoosh.app/&#34;&gt;Squoosh&lt;/a&gt;&lt;br&gt;
+画像をサイトに入れる時はこちらを使います!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
