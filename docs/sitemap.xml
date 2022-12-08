@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://watana0e.github.io/hugo-site/tags/app/</loc>
+    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/</loc>
+    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/</loc>
+    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/</loc>
+    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/vivaldi%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
+    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/web%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/</loc>
+    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+  </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/google/</loc>
     <lastmod>2022-12-07T23:29:15+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/google%E3%81%AE%E7%94%BB%E5%83%8F%E5%9C%A7%E7%B8%AEweb%E3%82%A2%E3%83%97%E3%83%AA/</loc>
-    <lastmod>2022-12-07T23:29:15+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/</loc>
-    <lastmod>2022-12-07T23:29:15+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/posts/</loc>
-    <lastmod>2022-12-07T23:29:15+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/tags/</loc>
     <lastmod>2022-12-07T23:29:15+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/web%E3%82%A2%E3%83%97%E3%83%AA/</loc>

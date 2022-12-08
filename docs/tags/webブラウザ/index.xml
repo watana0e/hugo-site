@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webブラウザ on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/web%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/</link>
+    <description>Recent content in Webブラウザ on Masahiro Watanabe Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Dec 2022 23:52:28 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/web%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivaldiを入れてみた</title>
+      <link>https://watana0e.github.io/hugo-site/posts/vivaldi%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <pubDate>Thu, 08 Dec 2022 23:52:28 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/vivaldi%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <description>&lt;h1 id=&#34;vivaldi-をインストールしてみた&#34;&gt;Vivaldi をインストールしてみた&lt;/h1&gt;
+&lt;p&gt;Hugo の更新確認用にChrome系のブラウザを使おうと考えていたので､&lt;br&gt;
+Vivaldi を久しぶりにインストールしてみました｡&lt;/p&gt;
+&lt;p&gt;しばらくはメインで使ってみます｡&lt;/p&gt;
+&lt;p&gt;iPhone版も開発中らしいので､期待してます｡&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
