@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://watana0e.github.io/hugo-site/tags/app/</loc>
-    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
-  </url><url>
     <loc>https://watana0e.github.io/hugo-site/</loc>
-    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
+    <lastmod>2022-12-09T23:59:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/nanika/</loc>
+    <lastmod>2022-12-09T23:59:49+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/</loc>
+    <lastmod>2022-12-09T23:59:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/app/</loc>
     <lastmod>2022-12-08T23:52:28+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/</loc>
