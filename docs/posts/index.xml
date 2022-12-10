@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 23:59:49 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 23:33:31 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ビルド忘れの対策?</title>
+      <link>https://watana0e.github.io/hugo-site/posts/%E3%83%93%E3%83%AB%E3%83%89%E5%BF%98%E3%82%8C%E3%81%AE%E5%AF%BE%E7%AD%96/</link>
+      <pubDate>Sat, 10 Dec 2022 23:33:31 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/%E3%83%93%E3%83%AB%E3%83%89%E5%BF%98%E3%82%8C%E3%81%AE%E5%AF%BE%E7%AD%96/</guid>
+      <description>このサイトを作ってからというもの､
+記事を作成し終わったあとに
+hugo と入力するのを忘れることが多いです｡ 要はビルドを忘れます!
+なのでこれの対策を考えました｡
+コマンドをスニペットなどに入れておく Git をプッシュすれば自動でビルドされるホスティングサービスを使う などがありますかねぇ｡</description>
+    </item>
+    
     <item>
       <title>Nanika</title>
       <link>https://watana0e.github.io/hugo-site/posts/nanika/</link>

@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://watana0e.github.io/hugo-site/tags/git/</loc>
+    <lastmod>2022-12-10T23:33:31+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/hugo/</loc>
+    <lastmod>2022-12-10T23:33:31+09:00</lastmod>
+  </url><url>
     <loc>https://watana0e.github.io/hugo-site/</loc>
-    <lastmod>2022-12-09T23:59:49+09:00</lastmod>
+    <lastmod>2022-12-10T23:33:31+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/</loc>
+    <lastmod>2022-12-10T23:33:31+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/</loc>
+    <lastmod>2022-12-10T23:33:31+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/%E3%83%93%E3%83%AB%E3%83%89%E5%BF%98%E3%82%8C%E3%81%AE%E5%AF%BE%E7%AD%96/</loc>
+    <lastmod>2022-12-10T23:33:31+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/nanika/</loc>
     <lastmod>2022-12-09T23:59:49+09:00</lastmod>
   </url><url>
-    <loc>https://watana0e.github.io/hugo-site/posts/</loc>
-    <lastmod>2022-12-09T23:59:49+09:00</lastmod>
-  </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/app/</loc>
-    <lastmod>2022-12-08T23:52:28+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/tags/</loc>
     <lastmod>2022-12-08T23:52:28+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/vivaldi%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/</loc>
@@ -34,9 +43,6 @@
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/%E7%94%BB%E5%83%8F%E5%9C%A7%E7%B8%AE/</loc>
     <lastmod>2022-12-07T23:29:15+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/tags/hugo/</loc>
-    <lastmod>2022-12-06T23:48:34+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/hugo%E3%81%A7%E5%BF%98%E3%82%8C%E3%82%8B/</loc>
     <lastmod>2022-12-06T23:48:34+09:00</lastmod>
