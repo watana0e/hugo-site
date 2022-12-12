@@ -1,8 +1,8 @@
 ---
 title: "Cloudflare Pages で公開するかも"
 date: 2022-12-12T22:00:15+09:00
-draft: true
-# draft: false
+# draft: true
+draft: false
 tags: ["hugo","Cloudflare","ホスティング",]
 #コメントアウト?
 ---

@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Masahiro Watanabe Site</title>
+    <title>hugo on Masahiro Watanabe Site</title>
     <link>https://watana0e.github.io/hugo-site/tags/hugo/</link>
-    <description>Recent content in Hugo on Masahiro Watanabe Site</description>
+    <description>Recent content in hugo on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 23:33:31 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 22:00:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloudflare Pages で公開するかも</title>
+      <link>https://watana0e.github.io/hugo-site/posts/cloudflare-pages-%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%8B%E3%82%82/</link>
+      <pubDate>Mon, 12 Dec 2022 22:00:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/cloudflare-pages-%E3%81%A7%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%8B%E3%82%82/</guid>
+      <description>&lt;h2 id=&#34;今はgithub--github-pages&#34;&gt;今は「GitHub + GitHub Pages」&lt;/h2&gt;
+&lt;p&gt;このサイトはネットにある情報をもとに勢いと &lt;del&gt;「ターミナルを打ちたい」という気持ち&lt;/del&gt;&lt;br&gt;
+で作ったサイトなので｡ GitHub Pages で公開しています｡&lt;/p&gt;
+&lt;p&gt;参考にさせていただいたサイトなどでは「Netlify」が多く使われているようですが､
+時々「Cloudflare Pages」を使う方もいるようなので､
+日本語のページもあるし､無料の条件も緩い? Cloudflare Pages を利用しようと思っています｡&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
     <item>
       <title>ビルド忘れの対策?</title>
       <link>https://watana0e.github.io/hugo-site/posts/%E3%83%93%E3%83%AB%E3%83%89%E5%BF%98%E3%82%8C%E3%81%AE%E5%AF%BE%E7%AD%96/</link>
