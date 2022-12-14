@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Git on Masahiro Watanabe Site</title>
-    <link>https://watana0e.github.io/hugo-site/tags/git/</link>
-    <description>Recent content in Git on Masahiro Watanabe Site</description>
+    <title>YouTube on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/youtube/</link>
+    <description>Recent content in YouTube on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 23:22:54 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 23:22:54 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>「Hugoを使おう」と思った動画たち</title>
       <link>https://watana0e.github.io/hugo-site/posts/hugo%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A1/</link>
@@ -46,19 +46,6 @@
 現在に至ります｡&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>ビルド忘れの対策?</title>
-      <link>https://watana0e.github.io/hugo-site/posts/%E3%83%93%E3%83%AB%E3%83%89%E5%BF%98%E3%82%8C%E3%81%AE%E5%AF%BE%E7%AD%96/</link>
-      <pubDate>Sat, 10 Dec 2022 23:33:31 +0900</pubDate>
-      
-      <guid>https://watana0e.github.io/hugo-site/posts/%E3%83%93%E3%83%AB%E3%83%89%E5%BF%98%E3%82%8C%E3%81%AE%E5%AF%BE%E7%AD%96/</guid>
-      <description>このサイトを作ってからというもの､
-記事を作成し終わったあとに
-hugo と入力するのを忘れることが多いです｡ 要はビルドを忘れます!
-なのでこれの対策を考えました｡
-コマンドをスニペットなどに入れておく Git をプッシュすれば自動でビルドされるホスティングサービスを使う などがありますかねぇ｡</description>
     </item>
     
   </channel>
