@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/mac/</link>
+    <description>Recent content in Mac on Masahiro Watanabe Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2022 23:27:42 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>『Clipy』でコマンド入力を簡略化?</title>
+      <link>https://watana0e.github.io/hugo-site/posts/clipy%E3%81%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%85%A5%E5%8A%9B%E3%82%92%E7%B0%A1%E7%95%A5%E5%8C%96/</link>
+      <pubDate>Thu, 15 Dec 2022 23:27:42 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/clipy%E3%81%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%85%A5%E5%8A%9B%E3%82%92%E7%B0%A1%E7%95%A5%E5%8C%96/</guid>
+      <description>&lt;p&gt;昨日の投稿を更新する時に
+&lt;strong&gt;Clipy&lt;/strong&gt; というアプリを使いました｡&lt;/p&gt;
+&lt;p&gt;おかげでコマンド入力が楽になりました｡&lt;/p&gt;
+&lt;p&gt;ちゃんちゃん!  ← おい!仕事しろww&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

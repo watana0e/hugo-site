@@ -10,6 +10,8 @@ tags: ["Hugo","Git","YouTube","動画","",]
 Hugo を使おうと思った動画や
 参考にした動画を並べていきます｡
 
+<!--more-->
+
 {{<youtube "zaGq7u78CfM">}}
 &nbsp;
 

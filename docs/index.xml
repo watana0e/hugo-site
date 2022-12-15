@@ -6,7 +6,20 @@
     <description>Recent content on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 23:22:54 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 23:27:42 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>『Clipy』でコマンド入力を簡略化?</title>
+      <link>https://watana0e.github.io/hugo-site/posts/clipy%E3%81%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%85%A5%E5%8A%9B%E3%82%92%E7%B0%A1%E7%95%A5%E5%8C%96/</link>
+      <pubDate>Thu, 15 Dec 2022 23:27:42 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/clipy%E3%81%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E5%85%A5%E5%8A%9B%E3%82%92%E7%B0%A1%E7%95%A5%E5%8C%96/</guid>
+      <description>&lt;p&gt;昨日の投稿を更新する時に
+&lt;strong&gt;Clipy&lt;/strong&gt; というアプリを使いました｡&lt;/p&gt;
+&lt;p&gt;おかげでコマンド入力が楽になりました｡&lt;/p&gt;
+&lt;p&gt;ちゃんちゃん!  ← おい!仕事しろww&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
     <item>
       <title>「Hugoを使おう」と思った動画たち</title>
       <link>https://watana0e.github.io/hugo-site/posts/hugo%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A1/</link>
@@ -14,38 +27,7 @@
       
       <guid>https://watana0e.github.io/hugo-site/posts/hugo%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A1/</guid>
       <description>&lt;p&gt;Hugo を使おうと思った動画や
-参考にした動画を並べていきます｡&lt;/p&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/zaGq7u78CfM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
- &lt;/p&gt;
-&lt;p&gt;上記動画内で
-「VSCodeを使ってコマンド一発で &lt;strong&gt;Hugo&lt;/strong&gt; で記事を作成」&lt;br&gt;
-みたいなことを言っていて､&lt;br&gt;
-「&amp;rsquo;&lt;strong&gt;ひゅーご&lt;/strong&gt;&amp;lsquo;って何?」と思って調べ始めたのがキッカケです!&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/GpiNBr4aNKI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
- &lt;/p&gt;
-&lt;p&gt;上のこちらの動画を参考にして､&lt;br&gt;
-&lt;strong&gt;VSCode + Github + Github Pages&lt;/strong&gt;&lt;br&gt;
-で構築することにしました｡&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/BOP7IegsCl8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
- &lt;/p&gt;
-&lt;p&gt;最終的にこの上の動画でリモートリポジトリにプッシュする方法を覚えて&lt;br&gt;
-現在に至ります｡&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+参考にした動画を並べていきます｡&lt;/p&gt;</description>
     </item>
     
     <item>
