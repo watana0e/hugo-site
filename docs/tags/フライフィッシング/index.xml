@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>釣り on Masahiro Watanabe Site</title>
-    <link>https://watana0e.github.io/hugo-site/tags/%E9%87%A3%E3%82%8A/</link>
-    <description>Recent content in 釣り on Masahiro Watanabe Site</description>
+    <title>フライ・フィッシング on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in フライ・フィッシング on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2022 18:37:21 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/%E9%87%A3%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 18:37:21 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>鯉を釣りたいです</title>
       <link>https://watana0e.github.io/hugo-site/posts/%E9%AF%89%E3%82%92%E9%87%A3%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99/</link>
@@ -22,16 +22,6 @@
 &lt;p&gt;なので!&lt;/p&gt;
 &lt;p&gt;フライを巻いておきます!&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>趣味について</title>
-      <link>https://watana0e.github.io/hugo-site/posts/%E8%B6%A3%E5%91%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
-      <pubDate>Tue, 13 Dec 2022 22:54:24 +0900</pubDate>
-      
-      <guid>https://watana0e.github.io/hugo-site/posts/%E8%B6%A3%E5%91%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
-      <description>&lt;p&gt;よくよく考えたら､あんまり自分のことを語っていないので､
-「趣味」について書いていきたいと思います｡&lt;/p&gt;</description>
     </item>
     
   </channel>
