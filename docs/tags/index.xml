@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 21:46:08 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 23:03:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://watana0e.github.io/hugo-site/tags/hugo/</link>
+      <pubDate>Sun, 18 Dec 2022 23:03:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>テーマ</title>
+      <link>https://watana0e.github.io/hugo-site/tags/%E3%83%86%E3%83%BC%E3%83%9E/</link>
+      <pubDate>Sun, 18 Dec 2022 23:03:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/tags/%E3%83%86%E3%83%BC%E3%83%9E/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>アウトドア</title>
       <link>https://watana0e.github.io/hugo-site/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/</link>
@@ -103,15 +121,6 @@
       <pubDate>Wed, 14 Dec 2022 23:22:54 +0900</pubDate>
       
       <guid>https://watana0e.github.io/hugo-site/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://watana0e.github.io/hugo-site/tags/hugo/</link>
-      <pubDate>Wed, 14 Dec 2022 23:22:54 +0900</pubDate>
-      
-      <guid>https://watana0e.github.io/hugo-site/tags/hugo/</guid>
       <description></description>
     </item>
     

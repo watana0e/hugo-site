@@ -6,7 +6,24 @@
     <description>Recent content in hugo on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 23:22:54 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 23:03:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テーマを変えようかな</title>
+      <link>https://watana0e.github.io/hugo-site/posts/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%88%E3%81%86%E3%81%8B%E3%81%AA/</link>
+      <pubDate>Sun, 18 Dec 2022 23:03:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%88%E3%81%86%E3%81%8B%E3%81%AA/</guid>
+      <description>&lt;p&gt;今はクイックスタートでも使われている&lt;br&gt;
+&lt;strong&gt;&amp;lsquo;Ananke&amp;rsquo;&lt;/strong&gt;&lt;br&gt;
+を使っていますが､
+タグの一覧がトップページから見えない上に&lt;br&gt;
+サイドバーなども無いので「テーマを変えようかな」
+と､考えてしまいます｡&lt;/p&gt;
+&lt;p&gt;サイドバーに関してはコードをコピー&amp;amp;ペーストと多少の編集でできそうですが､&lt;br&gt;
+他のテーマを使った場合もみたいので､テーマを変えるかもしれません｡&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
     <item>
       <title>「Hugoを使おう」と思った動画たち</title>
       <link>https://watana0e.github.io/hugo-site/posts/hugo%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E5%8B%95%E7%94%BB%E3%81%9F%E3%81%A1/</link>

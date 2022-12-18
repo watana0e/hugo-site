@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>テーマ on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/%E3%83%86%E3%83%BC%E3%83%9E/</link>
+    <description>Recent content in テーマ on Masahiro Watanabe Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2022 23:03:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/%E3%83%86%E3%83%BC%E3%83%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テーマを変えようかな</title>
+      <link>https://watana0e.github.io/hugo-site/posts/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%88%E3%81%86%E3%81%8B%E3%81%AA/</link>
+      <pubDate>Sun, 18 Dec 2022 23:03:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%88%E3%81%86%E3%81%8B%E3%81%AA/</guid>
+      <description>&lt;p&gt;今はクイックスタートでも使われている&lt;br&gt;
+&lt;strong&gt;&amp;lsquo;Ananke&amp;rsquo;&lt;/strong&gt;&lt;br&gt;
+を使っていますが､
+タグの一覧がトップページから見えない上に&lt;br&gt;
+サイドバーなども無いので「テーマを変えようかな」
+と､考えてしまいます｡&lt;/p&gt;
+&lt;p&gt;サイドバーに関してはコードをコピー&amp;amp;ペーストと多少の編集でできそうですが､&lt;br&gt;
+他のテーマを使った場合もみたいので､テーマを変えるかもしれません｡&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
