@@ -6,7 +6,22 @@
     <description>Recent content in hugo on Masahiro Watanabe Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Dec 2022 23:03:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 14:19:15 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「ヘッドレスCMS」を使おうかな｡｡｡</title>
+      <link>https://watana0e.github.io/hugo-site/posts/%E3%83%98%E3%83%83%E3%83%89%E3%83%AC%E3%82%B9cms%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%8B%E3%81%AA/</link>
+      <pubDate>Sat, 24 Dec 2022 14:19:15 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/%E3%83%98%E3%83%83%E3%83%89%E3%83%AC%E3%82%B9cms%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%8B%E3%81%AA/</guid>
+      <description>&lt;p&gt;最近､このサイトを更新をしていて､&lt;br&gt;
+「ターミナルから操作するのは良い､&lt;br&gt;
+　　でも､ &lt;code&gt;draft&lt;/code&gt; を書き換えて
+それを更新するのが多いよね」&lt;/p&gt;
+&lt;p&gt;って､状態なので､ SSG と同じくらい使ってみたい
+ヘッドレスCMS を使ってみます｡&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>テーマを変えようかな</title>
       <link>https://watana0e.github.io/hugo-site/posts/%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%A4%89%E3%81%88%E3%82%88%E3%81%86%E3%81%8B%E3%81%AA/</link>
