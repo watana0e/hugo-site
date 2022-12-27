@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on Masahiro Watanabe Site</title>
+    <link>https://watana0e.github.io/hugo-site/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Masahiro Watanabe Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 23:15:09 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo-site/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「Obsidian」でJAMStackについて考えてるが。。。</title>
+      <link>https://watana0e.github.io/hugo-site/posts/obsidian%E3%81%A7jamstackwo/</link>
+      <pubDate>Tue, 27 Dec 2022 23:15:09 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo-site/posts/obsidian%E3%81%A7jamstackwo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;JAMStack&lt;/strong&gt; についてObsidianにてまとめていますが､&lt;/p&gt;
+&lt;p&gt;アパートの引き払いで今少し､時間が必要です｡&lt;br&gt;
+スマヌ&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

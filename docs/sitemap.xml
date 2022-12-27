@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://watana0e.github.io/hugo-site/posts/obsidian%E3%81%A7jamstackwo/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/hugo/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/jamstack/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/obsidian/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/posts/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo-site/tags/</loc>
+    <lastmod>2022-12-27T23:15:09+09:00</lastmod>
+  </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/brave/</loc>
     <lastmod>2022-12-26T22:51:49+09:00</lastmod>
   </url><url>
@@ -11,16 +32,7 @@
     <loc>https://watana0e.github.io/hugo-site/tags/firefox/</loc>
     <lastmod>2022-12-26T22:51:49+09:00</lastmod>
   </url><url>
-    <loc>https://watana0e.github.io/hugo-site/</loc>
-    <lastmod>2022-12-26T22:51:49+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/posts/</loc>
-    <lastmod>2022-12-26T22:51:49+09:00</lastmod>
-  </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/safari/</loc>
-    <lastmod>2022-12-26T22:51:49+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/tags/</loc>
     <lastmod>2022-12-26T22:51:49+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/vivaldi/</loc>
@@ -39,12 +51,6 @@
     <lastmod>2022-12-25T23:06:19+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/posts/%E3%83%98%E3%83%83%E3%83%89%E3%83%AC%E3%82%B9cms%E3%82%92%E4%BD%BF%E3%81%8A%E3%81%86%E3%81%8B%E3%81%AA/</loc>
-    <lastmod>2022-12-24T14:19:15+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/tags/hugo/</loc>
-    <lastmod>2022-12-24T14:19:15+09:00</lastmod>
-  </url><url>
-    <loc>https://watana0e.github.io/hugo-site/tags/jamstack/</loc>
     <lastmod>2022-12-24T14:19:15+09:00</lastmod>
   </url><url>
     <loc>https://watana0e.github.io/hugo-site/tags/studio/</loc>
